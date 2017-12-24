@@ -1,5 +1,7 @@
 # ReactReduxPlayground 
 
+# Nothing you should worry about
+
 ### Getting Started
 
 First install all the necessary dependencies.
@@ -7,7 +9,7 @@ First install all the necessary dependencies.
 ```
 > git clone https://github.com/davycode/ReactReduxPlayground.git
 
-> cd Reduxplayground
+> cd ReactReduxPlayground
 
 ```
 > npm install

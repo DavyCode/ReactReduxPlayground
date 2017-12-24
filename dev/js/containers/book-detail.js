@@ -18,7 +18,6 @@ class BookDetail extends Component {
     }
 };
 
-
 function mapStateToProps(state){
     return {
         book: state.activeBook 
