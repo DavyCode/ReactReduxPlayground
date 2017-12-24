@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-To get started, first install all the necessary dependencies.
+First install all the necessary dependencies.
 
 ```
 > git clone https://github.com/davycode/ReactReduxPlayground.git
