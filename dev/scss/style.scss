@@ -1,5 +1,10 @@
 $primary: #006699;
+$background: rgb(5, 127, 143);
 
 h2 {
 	color: $primary;
+}
+
+body {
+	background-color: $background;
 }
